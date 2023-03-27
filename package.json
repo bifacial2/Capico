@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "capico",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://bifacial2.github.io/capico",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /capico/"
   },
   "repository": {
     "type": "git",
